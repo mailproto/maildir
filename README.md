@@ -1,0 +1,1 @@
+# golang maildir implementation
